@@ -4,4 +4,4 @@ This repository contains .deb files to install runtime binaries and headers requ
 
 After downloading, just install them to your device by running,
 
-    sudo dpkg -i <filename>.deb
+    sudo apt-get install <filename>.deb
